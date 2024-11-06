@@ -1,2 +1,3 @@
-# Starting-Bug-Bounty
-Starting Bug Bounty my Repository
+#step bye step bug bounty hunter giden yol
+
+
